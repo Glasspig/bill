@@ -1,0 +1,42 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAMjMzgzjjACAyPzuDOOMPIjUzs4MAAP9VNTOzgwAAD6o6M7ODAAAAojozs4MAAAAgOj87gzjjAAAyMzODOOMAAAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "billContent"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAMjMzgzjjACAyPzODOOMPIjU/s4MAAP9VNTOzgwAAD6o6M7ODAAAAojo/M4MAAAAgOj8zgzjjAAAyMzODOOMAAAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "billBored1"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAYAAABgAAAAAAYAAAAAAA4AAAMjMzgzjjACAyP2aDOOMPIjU/ZoMAAP9VNTOzgwAAD6o6MzODAAAAojo/M4MAAAAgOj8zgzjjAAAyMzODOOMAAAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "billBored2"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAMuMzgz7jACAyP7ODOOMPIjUzs+MAAP9VNTOz4wAAD6o6M7ODAAAAojozs4MAAAAgOj++gzjjAAAy4zOD6OMAAAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "billDirty1"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAA4AAAAAAAAADuAAAAAAAAAAAAAAAAAAAA4AAAMjM+ju7jACAyP7ODOOMPIjUzO+MAAP9V5TM77uAAD6rqPjuDAOAAojozO44AAAAgOj+z4zjjAAAyMz7jPuMAAAAAAAAA4AAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA7g==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "billDirty2"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAMjMzADjjACAyPzODOOMPIjUzO4MAAP9VNTO7gwAAD6o6MzuDAAAAojozM4MAAAAgOj8zgzjjAAAyMzMAOOMAAAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "billHungry1"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMjMDAADgACAynzmDOOMPIjUzs4MAAP9VNTM7gwAAD6o6MzuDAAAAojozs4MAAAAgOp85gzjjAAAyMwMAAOAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "billHungry2"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
